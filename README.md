@@ -35,8 +35,8 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexzera-Dev&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexzera-Dev&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexzerabr&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexzerabr&theme=tokyonight" />
 </div>
 
 ---
