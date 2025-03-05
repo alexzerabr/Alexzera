@@ -1,35 +1,35 @@
-# 👋 Olá! Bem-vindo ao meu perfil no GitHub.
+# 👋 Hello! Welcome to my profile.
 
-## 🚀 Sobre Mim  
-👋 Meu nome é **Alexsander**, também conhecido como **Alexzera**. Sou um entusiasta da tecnologia, apaixonado por desenvolvimento, segurança e infraestrutura. Sempre buscando aprender e aprimorar minhas habilidades!
+## 🚀 About Me  
+👋 My name is **Alexsander**, also known as **Alexzera**. I am a technology enthusiast, passionate about development, security, and infrastructure. Always looking to learn and improve my skills!
 
-💻 Atualmente, estou focado em:  
-- 🐍 Desenvolvimento em **Python** e **Shell Script**  
-- 🖥️ **Backend** com **Node.js** e **Python**  
-- ☁️ **Cloud Computing** e **DevOps**  
-- 🔐 **Cibersegurança** e **Sistemas Operacionais** (Linux, FreeBSD)  
-- 🏠 **HomeLab** e automação de infraestrutura  
-- 📚 Aprendizado contínuo e novos desafios  
+💻 Currently, I am focused on:  
+- 🐍 **Python** and **Shell Script** development  
+- 🖥️ **Backend** with **JavaScript** and **Python**  
+- ☁️ **Cloud Computing** and **DevOps**  
+- 🔐 **Cybersecurity** and **Operating Systems** (Linux, FreeBSD)  
+- 🏠 **HomeLab** and infrastructure automation  
+- 📚 Continuous learning and new challenges  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🛠️ Technologies & Tools  
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,postgres,mysql,docker,git,github,aws" />
 </div>
 
-🖥️ **Sistemas Operacionais:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+🖥️ **Operating Systems:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)  
 
-💾 **Bancos de Dados:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+💾 **Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-📦 **Infraestrutura & Segurança:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+📦 **Infrastructure & Security:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white)  
 
 ---
 
@@ -41,12 +41,13 @@
 
 ---
 
-## 📫 Como me encontrar?  
+## 📫 How to reach me?  
 🔗 [LinkedIn](https://www.linkedin.com/in/alexsanderdsilva/)  
 📧 **Email:** contato@alexzera.com.br  
 
-💡 Sempre aberto a colaborações e novas oportunidades. Vamos conectar! 🚀  
+💡 Always open to collaborations and new opportunities. Let's connect! 🚀  
 
 ---
 
-🔹 *"O segredo do sucesso é a constância no propósito."* – Benjamin Disraeli  
+🔹 *"The secret of success is constancy of purpose."* – Benjamin Disraeli  
+
