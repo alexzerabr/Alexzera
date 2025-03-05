@@ -15,7 +15,7 @@
 
 ## 🛠️ Technologies & Tools  
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,postgres,mysql,docker,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,postgres,mysql,docker,git,github,aws" />
 </div>
 
 🖥️ **Operating Systems:**  
@@ -30,6 +30,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white)  
+
+🔐 **Cybersecurity Focus Areas:**  
+- 🔎 **Penetration Testing** & Ethical Hacking  
+- 🛡️ **Network Security & Firewalls**  
+- 📜 **Incident Response & Digital Forensics**  
+- 🔑 **Cryptography & Secure Communications**  
+- 🔄 **Threat Intelligence & Risk Management**  
 
 ---
 
